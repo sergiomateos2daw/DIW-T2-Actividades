@@ -1,49 +1,24 @@
-body{
-  background-image: url(https://i.blogs.es/89aaa3/650_1000_bliss-original/450_1000.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  overflow: scroll;
-  background-attachment: fixed;
+div{
+  border: solid 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 8px;
+  width: 850px;
 }
 h1{
-  color: darkred;
-  background-color: coral;
-  text-align: center;
+  color: rgb(99, 192, 99);
   text-transform: uppercase;
-  text-shadow: 5px 5px 5px;
+  text-align: center;
 }
 
 p{
-  color: rgb(0,255,0);
-  opacity: 80%;
-  text-align: justify;
-  text-indent: 2800px;
-  border-top: dotted;
-  border-bottom: dotted;
-  border-width: medium;
-  border-radius: 15px;
-}
-
-em{
-  color:#000080;
-  text-decoration: underline;
-  text-transform: capitalize;
-}
-
-em{
-  color: hsl(240, 100%, 30%);
-}
-
-img{
-  width: 20px;
-  height: 20px;
-  vertical-align: super;
+  justify-content: center;
+  text-indent: 20px;
+  letter-spacing: 4px;
+  word-spacing: 5px;
+  
 }
 
 a{
   text-decoration: none;
-  border: solid;
-  padding: 5px;
-  border-radius: 15px;
-  box-shadow: 1.5px 1.5px 1.5px black;
 }
