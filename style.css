@@ -1,9 +1,18 @@
+body{
+  background-image: url(https://i.blogs.es/89aaa3/650_1000_bliss-original/450_1000.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: scroll;
+  background-attachment: fixed;
+}
 h1{
   color: darkred;
+  background-color: coral;
 }
 
 p{
   color: rgb(0,255,0);
+  opacity: 80%;
 }
 
 em{
