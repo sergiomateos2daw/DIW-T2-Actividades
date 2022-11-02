@@ -18,6 +18,10 @@ p{
   opacity: 80%;
   text-align: justify;
   text-indent: 2800px;
+  border-top: dotted;
+  border-bottom: dotted;
+  border-width: medium;
+  border-radius: 15px;
 }
 
 em{
