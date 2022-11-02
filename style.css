@@ -42,4 +42,8 @@ img{
 
 a{
   text-decoration: none;
+  border: solid;
+  padding: 5px;
+  border-radius: 15px;
+  box-shadow: 1.5px 1.5px 1.5px black;
 }
