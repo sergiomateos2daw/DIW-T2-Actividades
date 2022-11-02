@@ -8,17 +8,34 @@ body{
 h1{
   color: darkred;
   background-color: coral;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 5px 5px 5px;
 }
 
 p{
   color: rgb(0,255,0);
   opacity: 80%;
+  text-align: justify;
+  text-indent: 2800px;
 }
 
 em{
-color:#000080;
+  color:#000080;
+  text-decoration: underline;
+  text-transform: capitalize;
 }
 
 em{
   color: hsl(240, 100%, 30%);
+}
+
+img{
+  width: 20px;
+  height: 20px;
+  vertical-align: super;
+}
+
+a{
+  text-decoration: none;
 }
